@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_first_component_first_components",
+  "info": {
+    "displayName": "first-component",
+    "icon": "angry",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "test": {
+      "type": "text"
+    },
+    "testEnum": {
+      "type": "enumeration",
+      "enum": [
+        "morning",
+        "evening",
+        "sunrise"
+      ]
+    },
+    "testnumber": {
+      "type": "biginteger"
+    }
+  }
+}

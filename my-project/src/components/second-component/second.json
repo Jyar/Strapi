@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_second_component_seconds",
+  "info": {
+    "displayName": "second",
+    "icon": "arrow-alt-circle-down"
+  },
+  "options": {},
+  "attributes": {
+    "json": {
+      "type": "json"
+    }
+  }
+}

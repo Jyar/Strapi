@@ -1,0 +1,33 @@
+{
+  "kind": "singleType",
+  "collectionName": "company_news_plural",
+  "info": {
+    "singularName": "company-news",
+    "pluralName": "company-news-plural",
+    "displayName": "company-news",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "companyNewsImage": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "richText": {
+      "type": "richtext"
+    },
+    "companyNewsDate": {
+      "type": "datetime"
+    }
+  }
+}
